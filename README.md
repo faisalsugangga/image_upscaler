@@ -116,14 +116,6 @@ Contoh: `foto.jpg` dengan faktor 2x akan menjadi `foto_upscaled_2.0x.jpg`
 - Tidak support format RAW.
 - Performa tergantung pada ukuran file dan spesifikasi komputer.
 
-## Pengembangan Selanjutnya
-
-- [ ] Support AI-based upscaling
-- [ ] Batch resize dengan dimensi custom
-- [ ] Preview hasil sebelum save
-- [ ] Watermark removal
-- [ ] Format conversion
-
 ## Lisensi
 
 MIT License - Bebas digunakan untuk keperluan pribadi dan komersial.
